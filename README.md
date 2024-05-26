@@ -3,6 +3,10 @@ composer install
 ```
 
 ```@php
+code .
+```
+
+```@php
 cp .env.example .env
 ```
 
